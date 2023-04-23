@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mustafa Mert Çelikok"
 title_separator          : "-"
 name                     : &name "Mustafa Mert Çelikok"
 description              : &description "ELLIS PhD Candidate at Aalto University and TU Delft"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mustafa Mert Çelikok"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "ELLIS PhD Candidate at Aalto University and TU Delft"
+  location         : "The Netherlands"
+  employer         : "Aalto University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mustafa.mert.celikok@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
