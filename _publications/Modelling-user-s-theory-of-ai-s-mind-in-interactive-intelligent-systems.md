@@ -1,9 +1,9 @@
 ---
 title: Modelling user’s theory of ai’s mind in interactive intelligent systems
 collection: publications
-permalink: 
+permalink: /publication/Modelling-user-s-theory-of-ai-s-mind-in-interactive-intelligent-systems
 date: 2018
-venue: 
+venue: arXiv preprint arXiv:1809.02869
 paperurl: 
 ---
 
