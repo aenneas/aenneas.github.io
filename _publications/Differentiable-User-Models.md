@@ -3,7 +3,7 @@ title: Differentiable User Models
 collection: publications
 permalink: /publication/Differentiable-User-Models 
 date: 2022
-venue: Human-in-the-loop Learning Workshop in NeurIPS 2022 (Neurips 2022 - HILL)
+venue: NeurIPS 2022 Human-in-the-loop Learning Workshop (Neurips 2022 - HILL)
 paperurl: 
 ---
 
