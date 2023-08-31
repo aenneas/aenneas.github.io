@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mustafa Mert Çelikok"
+title                    : "Dr. Mustafa Mert Çelikok"
 title_separator          : "-"
-name                     : &name "Mustafa Mert Çelikok"
-description              : &description "ELLIS PhD Candidate at Aalto University and TU Delft"
-url                      : https://mmcelikok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Mustafa Mert Çelikok"
+description              : &description "Postdoctoral Researcher at TU Delft. ELLIS PhD Alumnus from Aalto University."
+url                      : "https://mmcelikok.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmcelikok/mmcelikok.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mustafa Mert Çelikok"
+  name             : "Dr. Mustafa Mert Çelikok"
   avatar           : "profile.png"
-  bio              : "ELLIS PhD Candidate at Aalto University and TU Delft"
+  bio              : "Postdoctoral Researcher at TU Delft. ELLIS PhD Alumnus from Aalto University."
   location         : "The Netherlands"
-  employer         : "Aalto University"
+  employer         : "Delft University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_8yxhlMAAAAJ&hl=en"
   email            : "mustafa.mert.celikok@gmail.com"
